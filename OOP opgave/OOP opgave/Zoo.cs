@@ -3,23 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using OOP_opgave.Animals;
 
 namespace OOP_opgave
 {
     public class Zoo
     {
-        private List<Animal> zoo = new List<Animal>();
+        private readonly List<Animal> _animals = new() ;
 
-        public void AddAnimal(Animal animal)
-        {
-            zoo.Add(animal);
-        }
+        public void AddAnimal(Animal animal) => _animals.Add(animal);
 
-        public void MakeAllSound()
+        public void MakeAllSounds()
         {
-            foreach (var animal in zoo)
+            foreach (var animal in _animals)
             {
                 animal.MakeSound();
+            }
+        }
+
+        public void DescribeAll()
+        {
+            foreach (var animal in _animals)
+            {
+                animal.Describe();
             }
         }
     }

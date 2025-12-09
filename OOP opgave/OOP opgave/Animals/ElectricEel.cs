@@ -1,26 +1,20 @@
 ﻿using OOP_opgave.Interfaces;
+using OOP_opgave.Enum;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OOP_opgave.Animals
 {
-    public class ElectricEel : Fish, ISwim, ILayEggs
+    public class ElectricEel : Fish, ISwim
     {
-        public Body Body { get; set; }
-        public Habitat Habitat { get; set; }
-
-        public ElectricEel() 
+        public ElectricEel()
         {
             Name = "Electric Eel";
-            Sound = "BZZZZT";
+            Sound = "Zap";
             Habitat = Habitat.Aquatic;
-            Body = new Body { Legs = 0, Wings = 0, HasTail = true, HasBeak = false};
+            Body = new Body { Legs = 0, Wings = 0, HasTail = true, HasBeak = false };
         }
 
-        public void Swim() => Console.WriteLine("Electric Eel is swimming");
-        public void LayEggs() => Console.WriteLine("Electric Eel lays Eggs");
+        public override void MakeSound() => Console.WriteLine($"{Name} says {Sound}");
+        public void Swim() => Console.WriteLine("Electric eel is swimming");
     }
 }

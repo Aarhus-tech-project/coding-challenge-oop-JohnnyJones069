@@ -1,21 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace OOP_opgave
+namespace OOP_opgave.Animals
 {
-    public enum Habitat
-    {
-        Terrestrial,
-        Aquatic,
-        Arboreal,
-        Flying
-    }
-
-    public enum LifeStage
-    {
-        Larva,
-        Young,
-        Adult
-    }
     public class Body
     {
         public int Legs { get; set; }

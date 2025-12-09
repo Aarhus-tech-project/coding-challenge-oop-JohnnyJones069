@@ -7,32 +7,8 @@
       "RelativeMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|solutionrelative:oop opgave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|c:\\users\\jonas\\documents\\aarhus tech doc\\h1\\kode\\coding-challenge-oop-johnnyjones069\\oop opgave\\oop opgave\\animals\\chameleon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|solutionrelative:oop opgave\\animals\\chameleon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|c:\\users\\jonas\\documents\\aarhus tech doc\\h1\\kode\\coding-challenge-oop-johnnyjones069\\oop opgave\\oop opgave\\animals\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|solutionrelative:oop opgave\\animals\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|c:\\users\\jonas\\documents\\aarhus tech doc\\h1\\kode\\coding-challenge-oop-johnnyjones069\\oop opgave\\oop opgave\\animals\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|solutionrelative:oop opgave\\animals\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|c:\\users\\jonas\\documents\\aarhus tech doc\\h1\\kode\\coding-challenge-oop-johnnyjones069\\oop opgave\\oop opgave\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|solutionrelative:oop opgave\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|c:\\users\\jonas\\documents\\aarhus tech doc\\h1\\kode\\coding-challenge-oop-johnnyjones069\\oop opgave\\oop opgave\\animals\\electriceel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|solutionrelative:oop opgave\\animals\\electriceel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|c:\\users\\jonas\\documents\\aarhus tech doc\\h1\\kode\\coding-challenge-oop-johnnyjones069\\oop opgave\\oop opgave\\animals\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|solutionrelative:oop opgave\\animals\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|c:\\users\\jonas\\documents\\aarhus tech doc\\h1\\kode\\coding-challenge-oop-johnnyjones069\\oop opgave\\oop opgave\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|solutionrelative:oop opgave\\body.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|c:\\users\\jonas\\documents\\aarhus tech doc\\h1\\kode\\coding-challenge-oop-johnnyjones069\\oop opgave\\oop opgave\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2D40D0-2597-436C-BE18-85828C50923A}|OOP opgave\\OOP opgave.csproj|solutionrelative:oop opgave\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,22 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Penguin.cs",
-              "DocumentMoniker": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\Penguin.cs",
-              "RelativeDocumentMoniker": "OOP opgave\\Animals\\Penguin.cs",
-              "ToolTip": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\Penguin.cs",
-              "RelativeToolTip": "OOP opgave\\Animals\\Penguin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:03:56.399Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -66,94 +28,22 @@
               "RelativeDocumentMoniker": "OOP opgave\\Program.cs",
               "ToolTip": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Program.cs",
               "RelativeToolTip": "OOP opgave\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:11:36.619Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Body.cs",
-              "DocumentMoniker": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Body.cs",
-              "RelativeDocumentMoniker": "OOP opgave\\Body.cs",
-              "ToolTip": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Body.cs",
-              "RelativeToolTip": "OOP opgave\\Body.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:16:21.372Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IFly.cs",
-              "DocumentMoniker": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Interfaces\\IFly.cs",
-              "RelativeDocumentMoniker": "OOP opgave\\Interfaces\\IFly.cs",
-              "ToolTip": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Interfaces\\IFly.cs",
-              "RelativeToolTip": "OOP opgave\\Interfaces\\IFly.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:27:28.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lion.cs",
-              "DocumentMoniker": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\Lion.cs",
-              "RelativeDocumentMoniker": "OOP opgave\\Animals\\Lion.cs",
-              "ToolTip": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\Lion.cs",
-              "RelativeToolTip": "OOP opgave\\Animals\\Lion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:25:56.224Z",
+              "WhenOpened": "2025-12-09T18:33:31.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Chameleon.cs",
-              "DocumentMoniker": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\Chameleon.cs",
-              "RelativeDocumentMoniker": "OOP opgave\\Animals\\Chameleon.cs",
-              "ToolTip": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\Chameleon.cs",
-              "RelativeToolTip": "OOP opgave\\Animals\\Chameleon.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Zoo.cs",
+              "RelativeDocumentMoniker": "OOP opgave\\Zoo.cs",
+              "ToolTip": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Zoo.cs",
+              "RelativeToolTip": "OOP opgave\\Zoo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:33:03.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Lizard.cs",
-              "DocumentMoniker": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\Lizard.cs",
-              "RelativeDocumentMoniker": "OOP opgave\\Animals\\Lizard.cs",
-              "ToolTip": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\Lizard.cs",
-              "RelativeToolTip": "OOP opgave\\Animals\\Lizard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:24:03.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ElectricEel.cs",
-              "DocumentMoniker": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\ElectricEel.cs",
-              "RelativeDocumentMoniker": "OOP opgave\\Animals\\ElectricEel.cs",
-              "ToolTip": "C:\\Users\\jonas\\Documents\\Aarhus Tech Doc\\H1\\Kode\\coding-challenge-oop-JohnnyJones069\\OOP opgave\\OOP opgave\\Animals\\ElectricEel.cs",
-              "RelativeToolTip": "OOP opgave\\Animals\\ElectricEel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T12:14:49.882Z",
+              "WhenOpened": "2025-12-09T18:31:36.471Z",
               "EditorCaption": ""
             }
           ]

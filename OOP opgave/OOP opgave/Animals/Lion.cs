@@ -1,17 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using OOP_opgave.Interfaces;
+using OOP_opgave.Enum;
 
 namespace OOP_opgave.Animals
 {
     public class Lion : Mammal, IGiveMilk
     {
-        public Body Body { get; set; }
-        public Habitat Habitat { get; set; }
-        public Lion() 
+        public Lion()
         {
             Name = "Lion";
             Sound = "Roar";
@@ -19,6 +14,7 @@ namespace OOP_opgave.Animals
             Body = new Body { Legs = 4, Wings = 0, HasTail = true, HasBeak = false };
         }
 
-        public void GiveMilk() => Console.WriteLine("Lions give milk");
+        public override void MakeSound() => Console.WriteLine($"{Name} says {Sound}");
+        public void GiveMilk() => Console.WriteLine("Lion gives milk");
     }
 }

@@ -2,5 +2,8 @@
 
 namespace OOP_opgave.Animals
 {
-    public abstract class Mammal : Animal {}
+    public abstract class Mammal: Animal
+    {
+        protected bool HasFur { get; set; } = true;
+    }
 }

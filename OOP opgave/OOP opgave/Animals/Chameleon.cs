@@ -1,24 +1,20 @@
-﻿using OOP_opgave.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
+using OOP_opgave.Interfaces;
+using OOP_opgave.Enum;
 
 namespace OOP_opgave.Animals
 {
     public class Chameleon : Lizard, ILayEggs
     {
-        public Body Body { get; set; }
-        public Habitat Habitat { get; set; }
-        public Chameleon() 
+        public Chameleon()
         {
             Name = "Chameleon";
-            Sound = "Silent hiss";
-            Habitat = Habitat.Arboreal;
-            Body = new Body { Legs = 4, Wings = 0, HasTail = true, HasBeak = false};
+            Sound = "Click";
+            Habitat = Habitat.Terrestrial;
+            Body = new Body { Legs = 4, Wings = 0, HasTail = true, HasBeak = false };
         }
 
-        public void LayEggs() => Console.WriteLine("Chameleons lays eggs.");
+        public override void MakeSound() => Console.WriteLine($"{Name} says {Sound}");
+        public void LayEggs() => Console.WriteLine("Chameleon lays eggs");
     }
 }
