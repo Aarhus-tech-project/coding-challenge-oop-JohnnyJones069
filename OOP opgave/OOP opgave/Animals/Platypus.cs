@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using System;
 using OOP_opgave.Interfaces;
 using OOP_opgave.Enum;
+using OOP_opgave.Category;
+using OOP_opgave.Bodyparts;
 
 namespace OOP_opgave.Animals
 {
@@ -15,7 +17,16 @@ namespace OOP_opgave.Animals
             Name = "Platypus";
             Sound = "Growl";
             Habitat = Habitat.Amphibious;
-            Body = new Body { Legs = 4, Wings = 0, HasTail = true, HasBeak = true };
+
+            //Bodyparts
+            AddBody(new Fur());
+            AddBody(new Leg());
+            AddBody(new Leg());
+            AddBody(new Leg());
+            AddBody(new Leg());
+            AddBody(new Tail());
+            AddBody(new Beak());
+
         }
 
         public override void MakeSound() => Console.WriteLine($"{Name} says {Sound}");

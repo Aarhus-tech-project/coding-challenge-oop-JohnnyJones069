@@ -1,6 +1,8 @@
 ﻿using OOP_opgave.Interfaces;
 using OOP_opgave.Enum;
 using System;
+using OOP_opgave.Category;
+using OOP_opgave.Bodyparts;
 
 namespace OOP_opgave.Animals
 {
@@ -11,7 +13,10 @@ namespace OOP_opgave.Animals
             Name = "Electric Eel";
             Sound = "Zap";
             Habitat = Habitat.Aquatic;
-            Body = new Body { Legs = 0, Wings = 0, HasTail = true, HasBeak = false };
+
+            // Bodyparts
+            AddBody(new Tail());
+            AddBody(new Scales());
         }
 
         public override void MakeSound() => Console.WriteLine($"{Name} says {Sound}");

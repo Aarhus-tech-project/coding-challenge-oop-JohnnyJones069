@@ -1,6 +1,8 @@
 ﻿using System;
 using OOP_opgave.Interfaces;
 using OOP_opgave.Enum;
+using OOP_opgave.Category;
+using OOP_opgave.Bodyparts;
 
 namespace OOP_opgave.Animals
 {
@@ -11,7 +13,12 @@ namespace OOP_opgave.Animals
             Name = "Flying Fish";
             Sound = "Splash";
             Habitat = Habitat.Aquatic;
-            Body = new Body { Legs = 0, Wings = 2, HasTail = true, HasBeak = false };
+
+            //Body parts
+            AddBody(new Scales());
+            AddBody(new Tail());
+
+
         }
 
         public override void MakeSound() => Console.WriteLine($"{Name} says {Sound}");

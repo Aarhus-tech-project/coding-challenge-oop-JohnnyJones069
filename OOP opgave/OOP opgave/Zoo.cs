@@ -20,11 +20,11 @@ namespace OOP_opgave
             {
                 animal.Describe();
 
-                if (this is IFly f) f.Fly();
-                if (this is ISwim s) s.Swim();
-                if (this is ILayEggs e) e.LayEggs();
-                if (this is IGiveMilk m) m.GiveMilk();
-                if (this is IDig d) d.Dig();
+                if (animal is IFly f) f.Fly();
+                if (animal is ISwim s) s.Swim();
+                if (animal is ILayEggs e) e.LayEggs();
+                if (animal is IGiveMilk m) m.GiveMilk();
+                if (animal is IDig d) d.Dig();
 
                 Console.WriteLine();
             }

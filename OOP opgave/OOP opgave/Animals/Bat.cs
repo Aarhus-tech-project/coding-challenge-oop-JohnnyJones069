@@ -1,4 +1,6 @@
 ﻿
+using OOP_opgave.Bodyparts;
+using OOP_opgave.Category;
 using OOP_opgave.Enum;
 using OOP_opgave.Interfaces;
 using System;
@@ -12,7 +14,13 @@ namespace OOP_opgave.Animals
             Name = "Bat";
             Sound = "Screech";
             Habitat = Habitat.Air;
-            Body = new Body { Legs = 2, Wings = 2, HasTail = true, HasBeak = false };
+
+            // Bodyparts
+            AddBody(new Leg());
+            AddBody(new Leg());
+            AddBody(new Wing());
+            AddBody(new Wing());
+            AddBody(new Fur());
         }
 
         public override void MakeSound() => Console.WriteLine($"{Name} says {Sound}");

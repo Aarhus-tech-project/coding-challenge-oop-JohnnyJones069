@@ -1,6 +1,8 @@
 ﻿using System;
 using OOP_opgave.Interfaces;
 using OOP_opgave.Enum;
+using OOP_opgave.Category;
+using OOP_opgave.Bodyparts;
 
 namespace OOP_opgave.Animals
 {
@@ -10,8 +12,16 @@ namespace OOP_opgave.Animals
         {
             Name = "Chameleon";
             Sound = "Click";
-            Habitat = Habitat.Terrestrial;
-            Body = new Body { Legs = 4, Wings = 0, HasTail = true, HasBeak = false };
+            Habitat = Habitat.Amphibious;
+
+            //Bodyparts
+            AddBody(new Leg());
+            AddBody(new Leg());
+            AddBody(new Leg());
+            AddBody(new Leg());
+            AddBody(new Tail());
+            AddBody(new Scales());
+
         }
 
         public override void MakeSound() => Console.WriteLine($"{Name} says {Sound}");

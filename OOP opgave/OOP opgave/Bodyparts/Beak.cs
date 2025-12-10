@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_opgave.Animals
+namespace OOP_opgave.Bodyparts
 {
-    public abstract class Fish : Animal { }
+    internal class Beak : Body
+    {
+    }
 }
