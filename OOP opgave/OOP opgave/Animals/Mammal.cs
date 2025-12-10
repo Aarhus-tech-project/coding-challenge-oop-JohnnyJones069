@@ -4,6 +4,6 @@ namespace OOP_opgave.Animals
 {
     public abstract class Mammal: Animal
     {
-        protected bool HasFur { get; set; } = true;
+        protected bool HasFur = true;
     }
 }

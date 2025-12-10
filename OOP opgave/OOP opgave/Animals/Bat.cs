@@ -11,7 +11,7 @@ namespace OOP_opgave.Animals
         {
             Name = "Bat";
             Sound = "Screech";
-            Habitat = Habitat.Flying;
+            Habitat = Habitat.Air;
             Body = new Body { Legs = 2, Wings = 2, HasTail = true, HasBeak = false };
         }
 

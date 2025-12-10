@@ -11,7 +11,7 @@ namespace OOP_opgave.Enum
         Terrestrial,
         Aquatic,
         Arboreal,
-        Flying,
+        Air,
         Amphibious
     }
 }

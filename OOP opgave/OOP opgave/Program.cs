@@ -9,8 +9,15 @@ class Program
         Zoo zoo = new Zoo();
 
         zoo.AddAnimal(new Lion());
+        zoo.AddAnimal(new Chameleon());
+        zoo.AddAnimal(new ElectricEel());
+        zoo.AddAnimal(new Penguin());
+        zoo.AddAnimal(new Bat());
+        zoo.AddAnimal(new Platypus());
+        zoo.AddAnimal(new FlyingFish());
+
+        zoo.ShowAllAnimals();
 
         zoo.MakeAllSounds();
-        zoo.DescribeAll();
     }
 }
