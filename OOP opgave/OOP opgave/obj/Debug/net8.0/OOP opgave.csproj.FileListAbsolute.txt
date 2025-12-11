@@ -1,0 +1,15 @@
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\OOP opgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\OOP opgave.AssemblyInfoInputs.cache
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\OOP opgave.AssemblyInfo.cs
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\OOP opgave.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\OOP opgave.sourcelink.json
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\bin\Debug\net8.0\OOP opgave.exe
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\bin\Debug\net8.0\OOP opgave.deps.json
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\bin\Debug\net8.0\OOP opgave.runtimeconfig.json
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\bin\Debug\net8.0\OOP opgave.dll
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\bin\Debug\net8.0\OOP opgave.pdb
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\OOP opgave.dll
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\refint\OOP opgave.dll
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\OOP opgave.pdb
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\OOP opgave.genruntimeconfig.cache
+C:\Users\jonas\Documents\Aarhus Tech Doc\H1\Kode\coding-challenge-oop-JohnnyJones069\OOP opgave\OOP opgave\obj\Debug\net8.0\ref\OOP opgave.dll
